@@ -1,2 +1,2 @@
 # NIH_Chest_X-Ray_Data_Analysis
-Data analysis for patient credentials having chest xray
+Data analysis of patients credentials having chest xray
